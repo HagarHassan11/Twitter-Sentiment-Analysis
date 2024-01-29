@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis
+# Twitter-Sentiment-Analysis📊🐦
 
 ## Overview
 Welcome to the Twitter Sentiment Analysis project! This project focuses on leveraging deep learning techniques, particularly Convolutional Neural Networks (CNN), to analyze and categorize the sentiment of tweets. Using Natural Language Processing (NLP) and classification algorithms, I've built a system that can classify tweets into positive, negative, or neutral categories.
